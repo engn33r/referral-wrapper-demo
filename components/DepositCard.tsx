@@ -200,7 +200,7 @@ export function DepositCard() {
         </div>
 
         <div>
-          <label className="block text-sm text-slate-400 mb-1">Referrer</label>
+          <label className="block text-sm text-slate-400 mb-1">Referrer (use 0xFEB4acf3df3cDEA7399794D0869ef76A6EfAff52 for testing)</label>
           <input
             type="text"
             placeholder="0x..."
