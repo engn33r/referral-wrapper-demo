@@ -80,7 +80,7 @@ export const TOKENS_BY_CHAIN: Record<number, Token[]> = {
     },
     {
       symbol: "USND",
-      address: "0x4EcF61A6C2fAB8a047ceb3b3b263B401763E9D49",
+      address: "0x4ecf61a6c2FaB8A047CEB3B3B263B401763e9D49",
       decimals: 18,
       chainId: 42161,
     },
@@ -107,7 +107,7 @@ export const TOKENS_BY_CHAIN: Record<number, Token[]> = {
     },
     {
       symbol: "cbETH",
-      address: "0x2Ae3F1Ec7F1F5012CFEAb0185bfc7aa3cf0DEc22",
+      address: "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
       decimals: 18,
       chainId: 8453,
     },

@@ -23,6 +23,7 @@ export const katana = defineChain({
 });
 
 export const config = createConfig({
+  ssr: true,
   chains: [mainnet, arbitrum, base, katana],
   connectors: [injected()],
   transports: {

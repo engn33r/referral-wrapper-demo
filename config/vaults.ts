@@ -19,7 +19,7 @@ export const VAULTS_BY_CHAIN: Record<number, Vault[]> = {
     },
     {
       label: "USDT Vault",
-      address: "0x310B7Ea7475A0B449Cfd73aB81ab65f120579BC0",
+      address: "0x310B7Ea7475A0B449Cfd73bE81522F1B88eFAFaa",
       tokenSymbol: "USDT",
       tokenDecimals: 6,
       chainId: 1,
