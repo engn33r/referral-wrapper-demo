@@ -136,25 +136,25 @@ export const VAULTS_BY_CHAIN: Record<number, Vault[]> = {
       chainId: 8453,
     },
   ],
-  // Katana (placeholder addresses for local/test deployment)
+  // Katana
   747474: [
     {
       label: "USDC Vault",
-      address: "0x0000000000000000000000000000000000000001",
+      address: "0x80c34BD3A3569E126e7055831036aa7b212cB159",
       tokenSymbol: "USDC",
       tokenDecimals: 6,
       chainId: 747474,
     },
     {
-      label: "DAI Vault",
-      address: "0x0000000000000000000000000000000000000002",
-      tokenSymbol: "DAI",
-      tokenDecimals: 18,
+      label: "USDT Vault",
+      address: "0x9A6bd7B6Fd5C4F87eb66356441502fc7dCdd185B",
+      tokenSymbol: "USDT",
+      tokenDecimals: 6,
       chainId: 747474,
     },
     {
       label: "WETH Vault",
-      address: "0x0000000000000000000000000000000000000003",
+      address: "0xE007CA01894c863d7898045ed5A3B4Abf0b18f37",
       tokenSymbol: "WETH",
       tokenDecimals: 18,
       chainId: 747474,

@@ -14,11 +14,14 @@ export const katana = defineChain({
   },
   rpcUrls: {
     default: {
-      http: ["http://localhost:5050"],
+      http: [
+        "https://rpc.katana.network",
+        "https://katana.drpc.org"
+      ],
     },
   },
   blockExplorers: {
-    default: { name: "Explorer", url: "http://localhost:5050" },
+    default: { name: "Explorer", url: "https://katanascan.com" },
   },
 });
 

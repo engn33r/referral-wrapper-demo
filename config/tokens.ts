@@ -112,23 +112,23 @@ export const TOKENS_BY_CHAIN: Record<number, Token[]> = {
       chainId: 8453,
     },
   ],
-  // Katana (placeholder addresses - update with actual addresses)
+  // Katana
   747474: [
     {
       symbol: "USDC",
-      address: "0x0000000000000000000000000000000000000001",
+      address: "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
       decimals: 6,
       chainId: 747474,
     },
     {
-      symbol: "DAI",
-      address: "0x0000000000000000000000000000000000000002",
-      decimals: 18,
+      symbol: "USDT",
+      address: "0x2DCa96907fde857dd3D816880A0df407eeB2D2F2",
+      decimals: 6,
       chainId: 747474,
     },
     {
       symbol: "WETH",
-      address: "0x0000000000000000000000000000000000000003",
+      address: "0xEE7D8BCFb72bC1880D0Cf19822eB0A2e6577aB62",
       decimals: 18,
       chainId: 747474,
     },
